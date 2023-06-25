@@ -1,0 +1,38 @@
+body{
+  background: #1b1b1b;
+}
+
+.password{
+  background #212a38
+  width: 25%;
+  margin: 4em auto;
+  font-family: roboto;
+  
+}
+h1{
+  color: white;
+}
+span{
+  color: #4cdc57;
+}
+p{
+  color: #ddd;
+  font -size 14px;
+}
+
+button{
+  background: #10b981;
+
+}
+hr{
+  margin-top: 2.5em;
+  background: #ddd;
+}
+
+showPswd{
+  display: flex;
+  justify-content: space between;
+}
+.p1{
+  background: #272459;
+}
